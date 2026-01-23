@@ -29,7 +29,8 @@
 - Hibernate / JPA  
 - RESTful APIs  
 - Servlets & JSP  
-- Maven  
+- Maven
+- Microservices
 
 ### Frontend
 - HTML5  
@@ -48,17 +49,6 @@
 | GitHub Activity | Most Used Languages |
 | --- | --- |
 | <img src="https://github-readme-stats.vercel.app/api?username=surusivaji&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surusivaji&layout=compact&theme=buefy&hide_border=true" /> |
-
-
-## 📌 Top Repositories
-
-<a href="https://github.com/surusivaji/Shopping_Application">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=surusivaji&repo=Shopping_Application&theme=buefy" />
-</a>
-
-<a href="https://github.com/surusivaji/SmartContactManager">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=surusivaji&repo=SmartContactManager&theme=buefy" />
-</a>
 
 
 ---
