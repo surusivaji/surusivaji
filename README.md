@@ -35,7 +35,7 @@
 - HTML5  
 - CSS3  
 - JavaScript  
-- React (Basics)  
+- React
 
 ### Database & Tools
 - MySQL  
