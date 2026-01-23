@@ -56,7 +56,7 @@
 ## 📫 Connect With Me
 
 <!-- 🌐 Portfolio: https://surusivaji.io   -->
-- 💼 LinkedIn: https://linkedin.com/in/sur-usivaji  
+- 💼 LinkedIn: https://linkedin.com/in/suru-usivaji  
 - 🧠 LeetCode: https://leetcode.com/u/surusivaji  
 - 📧 Email: surusivaji2805@gmail.com  
 
