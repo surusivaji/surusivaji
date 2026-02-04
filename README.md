@@ -41,14 +41,7 @@
 ### Database & Tools
 - MySQL  
 - Git & GitHub  
-- Eclipse IDE  
-
----
-## 📊 GitHub Stats
-
-| GitHub Activity | Most Used Languages |
-| --- | --- |
-| <img src="https://github-readme-stats.vercel.app/api?username=surusivaji&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surusivaji&layout=compact&theme=buefy&hide_border=true" /> |
+- Eclipse IDE  |
 
 
 ---
