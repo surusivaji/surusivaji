@@ -51,8 +51,7 @@
 <!-- 🌐 Portfolio: https://surusivaji.io   -->
 - 💼 LinkedIn: https://linkedin.com/in/suru-sivaji  
 - 🧠 LeetCode: https://leetcode.com/u/surusivaji  
-- 📧 Email: surusivaji2805@gmail.com  
-
+- 📧 Email: surusivaji2805@gmail.com
 ---
 
 ⭐ *Focused on building scalable backend systems and solving real-world engineering problems.*
