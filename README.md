@@ -3,7 +3,7 @@
 **Java Backend / Full Stack Developer**
 
 🌍 India  
-🎓 Computer Science & Engineering Graduate (2023)
+🎓 Computer Science & Engineering Graduate
 
 ---
 
